@@ -1,9 +1,15 @@
-# Data_Encryption_Standard
+## <b>DES(Data Encrpytion Standard) ( Made with Python )</b>
 
-# 1블록 암호화 하는데 성공
-
-## 계획: 블록수만큼 암호화해서 출력하기
-
-# n블록 암호화 하는데 성공
-
-# 1블록, n블록 복호화 해서 ascii로 디코딩 해서 출력하기 완성
+> ## DES(Data Encrpytion Standard)
+>
+> > 국가 표준 대칭키 암호 알고리즘
+>
+> ## How to Start?
+>
+> > -   레포지토리를 복제합니다<br/>
+> > -   main.py를 더블클릭 합니다<br/>
+> > -   FINISH.<br/>
+>
+> ## What features does it have?
+>
+> > 1.  입력한 문자열 암호화.
